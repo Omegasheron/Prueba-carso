@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+.timer{
+    color: white;
+    display: flex;
+    margin: 1rem 0 2rem;
+    font-family: Exo;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.texto-timer {
+    color: white;
+    font-family: Exo;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.box {
+    border: 2px solid;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    text-align-last: center;
+    margin: 0 5px;
+}
+#day, #hour, #minute, #second {
+    margin: 5px;
+}

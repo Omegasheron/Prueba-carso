@@ -1,0 +1,10 @@
+
+.player {
+    width: 65vw;
+    height: 40vh;
+}
+@media (max-width: 430px){
+    .player {
+        width: 90vw;
+    }
+}
